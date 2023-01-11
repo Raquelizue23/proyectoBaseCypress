@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "cypress": "./node_modules/.bin/cypress open"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "cypress": "^10.2.0",
+    "cypress-localstorage-commands": "^2.2.1",
+    "pg": "^8.8.0"
+  }
+}
